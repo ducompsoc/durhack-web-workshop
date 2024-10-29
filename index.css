@@ -1,0 +1,15 @@
+p {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+div.main-div {
+    background-color: antiquewhite;
+    width: 32rem;
+    height: 8rem;
+    padding: 4rem 4rem 4rem 4rem;
+    margin: 4rem 8rem;
+}
